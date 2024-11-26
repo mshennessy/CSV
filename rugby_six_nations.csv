@@ -1,0 +1,376 @@
+Year,Date,HomeTeam,HomeBonus,AwayTeam,AwayBonus,HomeScore,AwayScore,Stadium
+2000,05/02/2000,Italy,0,Scotland,0,34,20,Stadio Flaminio
+2000,05/02/2000,England,0,Ireland,0,50,18,Twickenham Stadium
+2000,05/02/2000,Wales,0,France,0,3,36,Millennium Stadium
+2000,19/02/2000,Wales,0,Italy,0,47,16,Millennium Stadium
+2000,19/02/2000,France,0,England,0,9,15,Stade de France
+2000,19/02/2000,Ireland,0,Scotland,0,44,22,Lansdowne Road
+2000,04/03/2000,Scotland,0,France,0,16,28,Murrayfield Stadium
+2000,04/03/2000,England,0,Wales,0,46,12,Twickenham Stadium
+2000,04/03/2000,Ireland,0,Italy,0,60,13,Lansdowne Road
+2000,18/03/2000,Italy,0,England,0,12,59,Stadio Flaminio
+2000,18/03/2000,Wales,0,Scotland,0,26,18,Millennium Stadium
+2000,19/03/2000,France,0,Ireland,0,25,27,Stade de France
+2000,01/04/2000,France,0,Italy,0,42,31,Stade de France
+2000,01/04/2000,Ireland,0,Wales,0,19,23,Lansdowne Road
+2000,02/04/2000,Scotland,0,England,0,19,13,Murrayfield Stadium
+2001,03/02/2001,Italy,0,Ireland,0,22,41,Stadio Flaminio
+2001,03/02/2001,Wales,0,England,0,15,44,Millennium Stadium
+2001,04/02/2001,France,0,Scotland,0,16,6,Stade de France
+2001,17/02/2001,Ireland,0,France,0,22,15,Lansdowne Road
+2001,17/02/2001,England,0,Italy,0,80,23,Twickenham Stadium
+2001,17/02/2001,Scotland,0,Wales,0,28,28,Murrayfield Stadium
+2001,03/03/2001,Italy,0,France,0,19,30,Stadio Flaminio
+2001,03/03/2001,England,0,Scotland,0,43,3,Twickenham Stadium
+2001,17/03/2001,France,0,Wales,0,35,43,Stade de France
+2001,17/03/2001,Scotland,0,Italy,0,23,19,Murrayfield Stadium
+2001,07/04/2001,England,0,France,0,48,19,Twickenham Stadium
+2001,08/04/2001,Italy,0,Wales,0,23,33,Stadio Flaminio
+2001,22/09/2001,Scotland,0,Ireland,0,32,10,Murrayfield Stadium
+2001,13/10/2001,Wales,0,Ireland,0,6,36,Millennium Stadium
+2001,20/10/2001,Ireland,0,England,0,20,14,Lansdowne Road
+2002,02/02/2002,France,0,Italy,0,33,12,Stade de France
+2002,02/02/2002,Scotland,0,England,0,3,29,Murrayfield Stadium
+2002,03/02/2002,Ireland,0,Wales,0,54,10,Lansdowne Road
+2002,16/02/2002,Wales,0,France,0,33,37,Millennium Stadium
+2002,16/02/2002,England,0,Ireland,0,45,11,Twickenham Stadium
+2002,16/02/2002,Italy,0,Scotland,0,12,29,Stadio Flaminio
+2002,02/03/2002,France,0,England,0,20,15,Stade de France
+2002,02/03/2002,Wales,0,Italy,0,44,20,Millennium Stadium
+2002,02/03/2002,Ireland,0,Scotland,0,43,22,Lansdowne Road
+2002,23/03/2002,Ireland,0,Italy,0,32,17,Lansdowne Road
+2002,23/03/2002,England,0,Wales,0,50,10,Twickenham Stadium
+2002,23/03/2002,Scotland,0,France,0,10,22,Murrayfield Stadium
+2002,06/04/2002,France,0,Ireland,0,44,5,Stade de France
+2002,06/04/2002,Wales,0,Scotland,0,22,27,Millennium Stadium
+2002,07/04/2002,Italy,0,England,0,9,45,Stadio Flaminio
+2003,15/02/2003,Italy,0,Wales,0,30,22,Stadio Flaminio
+2003,15/02/2003,England,0,France,0,25,17,Twickenham Stadium
+2003,16/02/2003,Scotland,0,Ireland,0,6,36,Murrayfield Stadium
+2003,22/02/2003,Italy,0,Ireland,0,13,37,Stadio Flaminio
+2003,22/02/2003,Wales,0,England,0,9,26,Millennium Stadium
+2003,23/02/2003,France,0,Scotland,0,38,3,Stade de France
+2003,08/03/2003,Ireland,0,France,0,15,12,Lansdowne Road
+2003,08/03/2003,Scotland,0,Wales,0,30,22,Murrayfield Stadium
+2003,09/03/2003,England,0,Italy,0,40,5,Twickenham Stadium
+2003,22/03/2003,Wales,0,Ireland,0,24,25,Millennium Stadium
+2003,22/03/2003,England,0,Scotland,0,40,9,Twickenham Stadium
+2003,23/03/2003,Italy,0,France,0,27,53,Stadio Flaminio
+2003,29/03/2003,France,0,Wales,0,33,5,Stade de France
+2003,29/03/2003,Scotland,0,Italy,0,33,25,Murrayfield Stadium
+2003,30/03/2003,Ireland,0,England,0,6,42,Lansdowne Road
+2004,14/02/2004,France,0,Ireland,0,35,17,Stade de France
+2004,14/02/2004,Wales,0,Scotland,0,23,10,Millennium Stadium
+2004,15/02/2004,Italy,0,England,0,9,50,Stadio Flaminio
+2004,21/02/2004,France,0,Italy,0,25,0,Stade de France
+2004,21/02/2004,Scotland,0,England,0,13,35,Murrayfield Stadium
+2004,22/02/2004,Ireland,0,Wales,0,36,15,Lansdowne Road
+2004,06/03/2004,Italy,0,Scotland,0,20,14,Stadio Flaminio
+2004,06/03/2004,England,0,Ireland,0,13,19,Twickenham Stadium
+2004,07/03/2004,Wales,0,France,0,22,29,Millennium Stadium
+2004,20/03/2004,Ireland,0,Italy,0,19,3,Lansdowne Road
+2004,20/03/2004,England,0,Wales,0,31,21,Twickenham Stadium
+2004,21/03/2004,Scotland,0,France,0,0,31,Murrayfield Stadium
+2004,27/03/2004,Wales,0,Italy,0,44,10,Millennium Stadium
+2004,27/03/2004,Ireland,0,Scotland,0,37,16,Lansdowne Road
+2004,27/03/2004,France,0,England,0,24,21,Stade de France
+2005,05/02/2005,France,0,Scotland,0,16,9,Stade de France
+2005,05/02/2005,Wales,0,England,0,11,9,Millennium Stadium
+2005,06/02/2005,Italy,0,Ireland,0,17,28,Stadio Flaminio
+2005,12/02/2005,Italy,0,Wales,0,8,38,Stadio Flaminio
+2005,12/02/2005,Scotland,0,Ireland,0,13,40,Murrayfield Stadium
+2005,13/02/2005,England,0,France,0,17,18,Twickenham Stadium
+2005,26/02/2005,Scotland,0,Italy,0,18,10,Murrayfield Stadium
+2005,26/02/2005,France,0,Wales,0,18,24,Stade de France
+2005,27/02/2005,Ireland,0,England,0,19,13,Lansdowne Road
+2005,12/03/2005,Ireland,0,France,0,19,26,Lansdowne Road
+2005,12/03/2005,England,0,Italy,0,39,7,Twickenham Stadium
+2005,13/03/2005,Scotland,0,Wales,0,22,46,Murrayfield Stadium
+2005,19/03/2005,Italy,0,France,0,13,56,Stadio Flaminio
+2005,19/03/2005,Wales,0,Ireland,0,32,20,Millennium Stadium
+2005,19/03/2005,England,0,Scotland,0,43,22,Twickenham Stadium
+2006,04/02/2006,Ireland,0,Italy,0,26,16,Lansdowne Road
+2006,04/02/2006,England,0,Wales,0,47,13,Twickenham Stadium
+2006,05/02/2006,Scotland,0,France,0,20,16,Murrayfield Stadium
+2006,11/02/2006,France,0,Ireland,0,43,31,Stade de France
+2006,11/02/2006,Italy,0,England,0,16,31,Stadio Flaminio
+2006,12/02/2006,Wales,0,Scotland,0,28,18,Millennium Stadium
+2006,25/02/2006,France,0,Italy,0,37,12,Stade de France
+2006,25/02/2006,Scotland,0,England,0,18,12,Murrayfield Stadium
+2006,26/02/2006,Ireland,0,Wales,0,31,5,Lansdowne Road
+2006,11/03/2006,Wales,0,Italy,0,18,18,Millennium Stadium
+2006,11/03/2006,Ireland,0,Scotland,0,15,9,Lansdowne Road
+2006,12/03/2006,France,0,England,0,31,6,Stade de France
+2006,18/03/2006,Italy,0,Scotland,0,10,13,Stadio Flaminio
+2006,18/03/2006,Wales,0,France,0,16,21,Millennium Stadium
+2006,18/03/2006,England,0,Ireland,0,24,28,Twickenham Stadium
+2007,03/02/2007,Italy,0,France,0,3,39,Stadio Flaminio
+2007,03/02/2007,England,0,Scotland,0,42,20,Twickenham Stadium
+2007,04/02/2007,Wales,0,Ireland,0,9,19,Millennium Stadium
+2007,10/02/2007,England,0,Italy,0,20,7,Twickenham Stadium
+2007,10/02/2007,Scotland,0,Wales,0,21,9,Murrayfield Stadium
+2007,11/02/2007,Ireland,0,France,0,17,20,Croke Park
+2007,24/02/2007,Scotland,0,Italy,0,17,37,Murrayfield Stadium
+2007,24/02/2007,Ireland,0,England,0,43,13,Croke Park
+2007,24/02/2007,France,0,Wales,0,32,21,Stade de France
+2007,10/03/2007,Scotland,0,Ireland,0,18,19,Murrayfield Stadium
+2007,10/03/2007,Italy,0,Wales,0,23,20,Stadio Flaminio
+2007,11/03/2007,England,0,France,0,26,18,Twickenham Stadium
+2007,17/03/2007,Italy,0,Ireland,0,24,51,Stadio Flaminio
+2007,17/03/2007,France,0,Scotland,0,46,19,Stade de France
+2007,17/03/2007,Wales,0,England,0,27,18,Millennium Stadium
+2008,02/02/2008,Ireland,0,Italy,0,16,11,Croke Park
+2008,02/02/2008,England,0,Wales,0,19,26,Twickenham Stadium
+2008,03/02/2008,Scotland,0,France,0,6,27,Murrayfield Stadium
+2008,09/02/2008,Wales,0,Scotland,0,30,15,Millennium Stadium
+2008,09/02/2008,France,0,Ireland,0,26,21,Stade de France
+2008,10/02/2008,Italy,0,England,0,19,23,Stadio Flaminio
+2008,23/02/2008,Wales,0,Italy,0,47,8,Millennium Stadium
+2008,23/02/2008,Ireland,0,Scotland,0,34,13,Croke Park
+2008,23/02/2008,France,0,England,0,13,24,Stade de France
+2008,08/03/2008,Ireland,0,Wales,0,12,16,Croke Park
+2008,08/03/2008,Scotland,0,England,0,15,9,Murrayfield Stadium
+2008,09/03/2008,France,0,Italy,0,25,13,Stade de France
+2008,15/03/2008,Italy,0,Scotland,0,23,20,Stadio Flaminio
+2008,15/03/2008,England,0,Ireland,0,33,10,Twickenham Stadium
+2008,15/03/2008,Wales,0,France,0,29,12,Millennium Stadium
+2009,07/02/2009,England,0,Italy,0,36,11,Twickenham Stadium
+2009,07/02/2009,Ireland,0,France,0,30,21,Croke Park
+2009,08/02/2009,Scotland,0,Wales,0,13,26,Murrayfield Stadium
+2009,14/02/2009,France,0,Scotland,0,22,13,Stade de France
+2009,14/02/2009,Wales,0,England,0,23,15,Millennium Stadium
+2009,15/02/2009,Italy,0,Ireland,0,9,38,Stadio Flaminio
+2009,27/02/2009,France,0,Wales,0,21,16,Stade de France
+2009,28/02/2009,Scotland,0,Italy,0,26,6,Murrayfield Stadium
+2009,28/02/2009,Ireland,0,England,0,14,13,Croke Park
+2009,14/03/2009,Italy,0,Wales,0,15,20,Stadio Flaminio
+2009,14/03/2009,Scotland,0,Ireland,0,15,22,Murrayfield Stadium
+2009,15/03/2009,England,0,France,0,34,10,Twickenham Stadium
+2009,21/03/2009,Italy,0,France,0,8,50,Stadio Flaminio
+2009,21/03/2009,England,0,Scotland,0,26,12,Twickenham Stadium
+2009,21/03/2009,Wales,0,Ireland,0,15,17,Millennium Stadium
+2010,06/02/2010,Ireland,0,Italy,0,29,11,Croke Park
+2010,06/02/2010,England,0,Wales,0,30,17,Twickenham Stadium
+2010,07/02/2010,Scotland,0,France,0,9,18,Murrayfield Stadium
+2010,13/02/2010,Wales,0,Scotland,0,31,24,Millennium Stadium
+2010,13/02/2010,France,0,Ireland,0,33,10,Stade de France
+2010,14/02/2010,Italy,0,England,0,12,17,Stadio Flaminio
+2010,26/02/2010,Wales,0,France,0,20,26,Millennium Stadium
+2010,27/02/2010,Italy,0,Scotland,0,16,12,Stadio Flaminio
+2010,27/02/2010,England,0,Ireland,0,16,20,Twickenham Stadium
+2010,13/03/2010,Ireland,0,Wales,0,27,12,Croke Park
+2010,13/03/2010,Scotland,0,England,0,15,15,Murrayfield Stadium
+2010,14/03/2010,France,0,Italy,0,46,20,Stade de France
+2010,20/03/2010,Wales,0,Italy,0,33,10,Millennium Stadium
+2010,20/03/2010,Ireland,0,Scotland,0,20,23,Croke Park
+2010,20/03/2010,France,0,England,0,12,10,Stade de France
+2011,04/02/2011,Wales,0,England,0,19,26,Millennium Stadium
+2011,05/02/2011,Italy,0,Ireland,0,11,13,Stadio Flaminio
+2011,05/02/2011,France,0,Scotland,0,34,21,Stade de France
+2011,12/02/2011,England,0,Italy,0,59,13,Twickenham Stadium
+2011,12/02/2011,Scotland,0,Wales,0,6,24,Murrayfield Stadium
+2011,13/02/2011,Ireland,0,France,0,22,25,Aviva Stadium
+2011,26/02/2011,Italy,0,Wales,0,16,24,Stadio Flaminio
+2011,26/02/2011,England,0,France,0,17,9,Twickenham Stadium
+2011,27/02/2011,Scotland,0,Ireland,0,18,21,Murrayfield Stadium
+2011,12/03/2011,Italy,0,France,0,22,21,Stadio Flaminio
+2011,12/03/2011,Wales,0,Ireland,0,19,13,Millennium Stadium
+2011,13/03/2011,England,0,Scotland,0,22,16,Twickenham Stadium
+2011,19/03/2011,Scotland,0,Italy,0,21,8,Murrayfield Stadium
+2011,19/03/2011,Ireland,0,England,0,24,8,Aviva Stadium
+2011,19/03/2011,France,0,Wales,0,28,9,Stade de France
+2012,04/02/2012,France,0,Italy,0,30,12,Stade de France
+2012,04/02/2012,Scotland,0,England,0,6,13,Murrayfield Stadium
+2012,05/02/2012,Ireland,0,Wales,0,21,23,Aviva Stadium
+2012,11/02/2012,Italy,0,England,0,15,19,Stadio Olimpico
+2012,12/02/2012,Wales,0,Scotland,0,27,13,Millennium Stadium
+2012,25/02/2012,Ireland,0,Italy,0,42,10,Aviva Stadium
+2012,25/02/2012,England,0,Wales,0,12,19,Twickenham Stadium
+2012,26/02/2012,Scotland,0,France,0,17,23,Murrayfield Stadium
+2012,04/03/2012,France,0,Ireland,0,17,17,Stade de France
+2012,10/03/2012,Wales,0,Italy,0,24,3,Millennium Stadium
+2012,10/03/2012,Ireland,0,Scotland,0,32,14,Aviva Stadium
+2012,11/03/2012,France,0,England,0,22,24,Stade de France
+2012,17/03/2012,Italy,0,Scotland,0,13,6,Stadio Olimpico
+2012,17/03/2012,Wales,0,France,0,16,9,Millennium Stadium
+2012,17/03/2012,England,0,Ireland,0,30,9,Twickenham Stadium
+2013,02/02/2013,Wales,0,Ireland,0,22,30,Millennium Stadium
+2013,02/02/2013,England,0,Scotland,0,38,18,Twickenham Stadium
+2013,03/02/2013,Italy,0,France,0,23,18,Stadio Olimpico
+2013,09/02/2013,Scotland,0,Italy,0,34,10,Murrayfield Stadium
+2013,09/02/2013,France,0,Wales,0,6,16,Stade de France
+2013,10/02/2013,Ireland,0,England,0,6,12,Aviva Stadium
+2013,23/02/2013,Italy,0,Wales,0,9,26,Stadio Olimpico
+2013,23/02/2013,England,0,France,0,23,13,Twickenham Stadium
+2013,24/02/2013,Scotland,0,Ireland,0,12,8,Murrayfield Stadium
+2013,09/03/2013,Scotland,0,Wales,0,18,28,Murrayfield Stadium
+2013,09/03/2013,Ireland,0,France,0,13,13,Aviva Stadium
+2013,10/03/2013,England,0,Italy,0,18,11,Twickenham Stadium
+2013,16/03/2013,Italy,0,Ireland,0,22,15,Stadio Olimpico
+2013,16/03/2013,Wales,0,England,0,30,3,Millennium Stadium
+2013,16/03/2013,France,0,Scotland,0,23,16,Stade de France
+2014,01/02/2014,Wales,0,Italy,0,23,15,Millennium Stadium
+2014,01/02/2014,France,0,England,0,26,24,Stade de France
+2014,02/02/2014,Ireland,0,Scotland,0,28,6,Aviva Stadium
+2014,08/02/2014,Ireland,0,Wales,0,26,3,Aviva Stadium
+2014,08/02/2014,Scotland,0,England,0,0,20,Murrayfield Stadium
+2014,09/02/2014,France,0,Italy,0,30,10,Stade de France
+2014,21/02/2014,Wales,0,France,0,27,6,Millennium Stadium
+2014,22/02/2014,Italy,0,Scotland,0,20,21,Stadio Olimpico
+2014,22/02/2014,England,0,Ireland,0,13,10,Twickenham Stadium
+2014,08/03/2014,Ireland,0,Italy,0,46,7,Aviva Stadium
+2014,08/03/2014,Scotland,0,France,0,17,19,Murrayfield Stadium
+2014,09/03/2014,England,0,Wales,0,29,18,Twickenham Stadium
+2014,15/03/2014,Italy,0,England,0,11,52,Stadio Olimpico
+2014,15/03/2014,Wales,0,Scotland,0,51,3,Millennium Stadium
+2014,15/03/2014,France,0,Ireland,0,20,22,Stade de France
+2015,06/02/2015,Wales,0,England,0,16,21,Millennium Stadium
+2015,07/02/2015,Italy,0,Ireland,0,3,26,Stadio Olimpico
+2015,07/02/2015,France,0,Scotland,0,15,8,Stade de France
+2015,14/02/2015,England,0,Italy,0,47,17,Twickenham Stadium
+2015,14/02/2015,Ireland,0,France,0,18,11,Aviva Stadium
+2015,15/02/2015,Scotland,0,Wales,0,23,26,Murrayfield Stadium
+2015,28/02/2015,Scotland,0,Italy,0,19,22,Murrayfield Stadium
+2015,28/02/2015,France,0,Wales,0,13,20,Stade de France
+2015,01/03/2015,Ireland,0,England,0,19,9,Aviva Stadium
+2015,14/03/2015,Wales,0,Ireland,0,23,16,Millennium Stadium
+2015,14/03/2015,England,0,Scotland,0,25,13,Twickenham Stadium
+2015,15/03/2015,Italy,0,France,0,0,29,Stadio Olimpico
+2015,21/03/2015,Italy,0,Wales,0,20,61,Stadio Olimpico
+2015,21/03/2015,Scotland,0,Ireland,0,10,40,Murrayfield Stadium
+2015,21/03/2015,England,0,France,0,55,35,Twickenham Stadium
+2016,06/02/2016,France,0,Italy,0,23,21,Stade de France
+2016,06/02/2016,Scotland,0,England,0,9,15,Murrayfield Stadium
+2016,07/02/2016,Ireland,0,Wales,0,16,16,Aviva Stadium
+2016,13/02/2016,France,0,Ireland,0,10,9,Stade de France
+2016,13/02/2016,Wales,0,Scotland,0,27,23,Millennium Stadium
+2016,14/02/2016,Italy,0,England,0,9,40,Stadio Olimpico
+2016,26/02/2016,Wales,0,France,0,19,10,Millennium Stadium
+2016,27/02/2016,Italy,0,Scotland,0,20,36,Stadio Olimpico
+2016,27/02/2016,England,0,Ireland,0,21,10,Twickenham Stadium
+2016,12/03/2016,Ireland,0,Italy,0,58,15,Aviva Stadium
+2016,12/03/2016,England,0,Wales,0,25,21,Twickenham Stadium
+2016,13/03/2016,Scotland,0,France,0,29,18,Murrayfield Stadium
+2016,19/03/2016,Wales,0,Italy,0,67,14,Millennium Stadium
+2016,19/03/2016,Ireland,0,Scotland,0,35,25,Aviva Stadium
+2016,19/03/2016,France,0,England,0,21,31,Stade de France
+2017,04/02/2017,Scotland,0,Ireland,1,27,22,Murrayfield Stadium
+2017,04/02/2017,England,0,France,1,19,16,Twickenham Stadium
+2017,05/02/2017,Italy,0,Wales,0,7,33,Stadio Olimpico
+2017,11/02/2017,Italy,0,Ireland,1,10,63,Stadio Olimpico
+2017,11/02/2017,Wales,1,England,0,16,21,Millennium Stadium
+2017,12/02/2017,France,0,Scotland,1,22,16,Stade de France
+2017,25/02/2017,Scotland,0,Wales,0,29,13,Murrayfield Stadium
+2017,25/02/2017,Ireland,0,France,0,19,9,Aviva Stadium
+2017,26/02/2017,England,1,Italy,0,36,15,Twickenham Stadium
+2017,10/03/2017,Wales,0,Ireland,0,22,9,Millennium Stadium
+2017,11/03/2017,Italy,0,France,1,18,40,Stadio Olimpico
+2017,11/03/2017,England,1,Scotland,0,61,21,Twickenham Stadium
+2017,18/03/2017,Scotland,1,Italy,0,29,0,Murrayfield Stadium
+2017,18/03/2017,France,0,Wales,1,20,18,Stade de France
+2017,18/03/2017,Ireland,0,England,1,13,9,Aviva Stadium
+2018,03/02/2018,Wales,1,Scotland,0,34,7,Millennium Stadium
+2018,03/02/2018,France,1,Ireland,0,13,15,Stade de France
+2018,04/02/2018,Italy,0,England,1,15,46,Stadio Olimpico
+2018,10/02/2018,Ireland,1,Italy,0,56,19,Aviva Stadium
+2018,10/02/2018,England,0,Wales,1,12,6,Twickenham Stadium
+2018,11/02/2018,Scotland,0,France,1,32,26,Murrayfield Stadium
+2018,23/02/2018,France,0,Italy,0,34,17,Stade Vélodrome
+2018,24/02/2018,Ireland,1,Wales,0,37,27,Aviva Stadium
+2018,24/02/2018,Scotland,0,England,0,25,13,Murrayfield Stadium
+2018,10/03/2018,Ireland,1,Scotland,0,28,8,Aviva Stadium
+2018,10/03/2018,France,0,England,1,22,16,Stade de France
+2018,11/03/2018,Wales,1,Italy,0,38,14,Millennium Stadium
+2018,17/03/2018,Italy,1,Scotland,1,27,29,Stadio Olimpico
+2018,17/03/2018,England,0,Ireland,3,15,24,Twickenham Stadium
+2018,17/03/2018,Wales,0,France,1,14,13,Millennium Stadium
+2019,01/02/2019,France,1,Wales,0,19,24,Stade de France
+2019,02/02/2019,Scotland,1,Italy,0,33,20,Murrayfield Stadium
+2019,02/02/2019,Ireland,0,England,1,20,32,Aviva Stadium
+2019,09/02/2019,Scotland,0,Ireland,0,13,22,Murrayfield Stadium
+2019,09/02/2019,Italy,0,Wales,0,15,26,Stadio Olimpico
+2019,10/02/2019,England,1,France,0,44,8,Twickenham Stadium
+2019,23/02/2019,France,1,Scotland,0,27,10,Stade de France
+2019,23/02/2019,Wales,0,England,0,21,13,Millennium Stadium
+2019,24/02/2019,Italy,0,Ireland,1,16,26,Stadio Olimpico
+2019,09/03/2019,Scotland,1,Wales,0,11,18,Murrayfield Stadium
+2019,09/03/2019,England,1,Italy,0,57,14,Twickenham Stadium
+2019,10/03/2019,Ireland,1,France,0,26,14,Aviva Stadium
+2019,16/03/2019,Italy,0,France,0,14,25,Stadio Olimpico
+2019,16/03/2019,Wales,0,Ireland,0,25,7,Millennium Stadium
+2019,16/03/2019,England,1,Scotland,1,38,38,Twickenham Stadium
+2020,01/02/2020,Wales,1,Italy,0,42,0,Millennium Stadium
+2020,01/02/2020,Ireland,0,Scotland,1,19,12,Aviva Stadium
+2020,02/02/2020,France,0,England,1,24,17,Stade de France
+2020,08/02/2020,Ireland,1,Wales,0,24,14,Aviva Stadium
+2020,08/02/2020,Scotland,1,England,0,6,13,Murrayfield Stadium
+2020,09/02/2020,France,1,Italy,0,35,22,Stade de France
+2020,22/02/2020,Italy,0,Scotland,0,0,17,Stadio Olimpico
+2020,22/02/2020,Wales,1,France,0,23,27,Millennium Stadium
+2020,23/02/2020,England,0,Ireland,0,24,12,Twickenham Stadium
+2020,07/03/2020,England,0,Wales,1,33,30,Twickenham Stadium
+2020,08/03/2020,Scotland,0,France,0,28,17,Murrayfield Stadium
+2020,24/10/2020,Ireland,1,Italy,0,50,17,Aviva Stadium
+2020,31/10/2020,Wales,1,Scotland,0,10,14,Parc y Scarlets
+2020,31/10/2020,Italy,0,England,1,5,34,Stadio Olimpico
+2020,31/10/2020,France,1,Ireland,0,35,27,Stade de France
+2021,06/02/2021,Italy,0,France,1,10,50,Stadio Olimpico
+2021,06/02/2021,England,1,Scotland,0,6,11,Twickenham Stadium
+2021,07/02/2021,Wales,0,Ireland,1,21,16,Millennium Stadium
+2021,13/02/2021,England,1,Italy,0,41,18,Twickenham Stadium
+2021,13/02/2021,Scotland,1,Wales,1,24,25,Murrayfield Stadium
+2021,14/02/2021,Ireland,1,France,0,13,15,Aviva Stadium
+2021,27/02/2021,Italy,0,Ireland,1,10,48,Stadio Olimpico
+2021,27/02/2021,Wales,1,England,0,40,24,Millennium Stadium
+2021,13/03/2021,Italy,0,Wales,1,7,48,Stadio Olimpico
+2021,13/03/2021,England,0,France,1,23,20,Twickenham Stadium
+2021,14/03/2021,Scotland,1,Ireland,0,24,27,Murrayfield Stadium
+2021,20/03/2021,Scotland,1,Italy,0,52,10,Murrayfield Stadium
+2021,20/03/2021,Ireland,0,England,0,32,18,Aviva Stadium
+2021,20/03/2021,France,1,Wales,1,32,30,Stade de France
+2021,26/03/2021,France,1,Scotland,0,23,27,Stade de France
+2022,05/02/2022,Ireland,1,Wales,0,29,7,Aviva Stadium
+2022,05/02/2022,Scotland,0,England,1,20,17,Murrayfield Stadium
+2022,06/02/2022,France,1,Italy,0,37,10,Stade de France
+2022,12/02/2022,Wales,0,Scotland,1,20,17,Millennium Stadium
+2022,12/02/2022,France,0,Ireland,1,30,24,Stade de France
+2022,13/02/2022,Italy,0,England,1,0,33,Stadio Olimpico
+2022,26/02/2022,Scotland,0,France,1,17,36,Murrayfield Stadium
+2022,26/02/2022,England,0,Wales,1,23,19,Twickenham Stadium
+2022,27/02/2022,Ireland,1,Italy,0,57,6,Aviva Stadium
+2022,11/03/2022,Wales,1,France,0,9,13,Millennium Stadium
+2022,12/03/2022,Italy,0,Scotland,1,22,33,Stadio Olimpico
+2022,12/03/2022,England,0,Ireland,1,15,32,Twickenham Stadium
+2022,19/03/2022,Wales,1,Italy,0,21,22,Millennium Stadium
+2022,19/03/2022,Ireland,1,Scotland,0,26,5,Aviva Stadium
+2022,19/03/2022,France,0,England,0,25,13,Stade de France
+2023,04/02/2023,Wales,0,Ireland,1,10,34,Millennium Stadium
+2023,04/02/2023,England,1,Scotland,1,23,29,Twickenham Stadium
+2023,05/02/2023,Italy,1,France,1,24,29,Stadio Olimpico
+2023,11/02/2023,Ireland,1,France,0,32,19,Aviva Stadium
+2023,11/02/2023,Scotland,1,Wales,0,35,7,Murrayfield Stadium
+2023,12/02/2023,England,1,Italy,0,31,14,Twickenham Stadium
+2023,25/02/2023,Italy,0,Ireland,1,20,34,Stadio Olimpico
+2023,25/02/2023,Wales,0,England,0,10,20,Millennium Stadium
+2023,26/02/2023,France,1,Scotland,0,32,21,Stade de France
+2023,11/03/2023,Italy,0,Wales,1,17,29,Stadio Olimpico
+2023,11/03/2023,England,0,France,1,10,53,Twickenham Stadium
+2023,12/03/2023,Scotland,0,Ireland,0,7,22,Murrayfield Stadium
+2023,18/03/2023,Scotland,1,Italy,0,26,14,Murrayfield Stadium
+2023,18/03/2023,France,1,Wales,1,41,28,Stade de France
+2023,18/03/2023,Ireland,4,England,0,29,16,Aviva Stadium
+2024,02/02/2024,France,0,Ireland,1,17,38,Stade Vélodrome
+2024,03/02/2024,Italy,1,England,0,24,27,Stadio Olimpico
+2024,03/02/2024,Wales,2,Scotland,0,26,27,Millennium Stadium
+2024,10/02/2024,Scotland,1,France,0,16,20,Murrayfield Stadium
+2024,10/02/2024,England,0,Wales,1,16,14,Twickenham Stadium
+2024,11/02/2024,Ireland,1,Italy,0,36,0,Aviva Stadium
+2024,24/02/2024,Ireland,1,Wales,0,31,7,Aviva Stadium
+2024,24/02/2024,Scotland,0,England,0,30,21,Murrayfield Stadium
+2024,25/02/2024,France,0,Italy,0,13,13,Stade Pierre-Mauroy
+2024,09/03/2024,Italy,0,Scotland,2,31,29,Stadio Olimpico
+2024,09/03/2024,England,0,Ireland,1,23,22,Twickenham Stadium
+2024,10/03/2024,Wales,0,France,1,24,45,Millennium Stadium
+2024,16/03/2024,Wales,1,Italy,0,21,24,Millennium Stadium
+2024,16/03/2024,Ireland,0,Scotland,1,17,13,Aviva Stadium
+2024,16/03/2024,France,0,England,2,33,31,Parc Olympique Lyonnais
